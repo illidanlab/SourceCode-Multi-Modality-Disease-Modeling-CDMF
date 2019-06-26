@@ -14,6 +14,15 @@ Alzheimer's disease (AD), one of the most common causes of dementia, is a severe
 
 - `train_size`: the number of training samples 
 
+## Dependencies:
+We ran CDMF using:
+- Ubuntu 16.04
+- Python 2.7
+- Tensorflow 0.12
+- Numpy
+- Scipy
+- Sklearn
+
 
 ## Citation
 
