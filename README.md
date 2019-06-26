@@ -4,13 +4,13 @@ Alzheimer's disease (AD), one of the most common causes of dementia, is a severe
 ## Usage
 `example_3modalities.py` is an example of fusion 3 modalities. In the function 'load_data', please load the data files as follows: 
 
-- `x1`: first modality
+- `x1`: first modality (n x d1 matrix)
 
-- `x2`: second modality
+- `x2`: second modality (n x d2 matrix)
 
-- `x3`: third modality
+- `x3`: third modality (n x d2 matrix)
 
-- `y`: labels
+- `y`: labels (n x 1 matrix)
 
 - `train_size`: the number of training samples 
 
